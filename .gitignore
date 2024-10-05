@@ -47,7 +47,9 @@ internal/
 **/.vs
 **/.vscode/*
 !**/.vscode/tasks.json
+!**/.vscode/settings.json
 !**/.vscode/settings.template.json
+!**/.vscode/launch.json
 !**/.vscode/launch.template.json
 !**/.vscode/extensions.json
 !tests/cases/projects/projectOption/**/node_modules
